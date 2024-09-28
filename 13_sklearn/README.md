@@ -26,4 +26,4 @@
 
 
 ## Используемые библиотеки
-*sklearn*
+*Python, Pandas, NumPy, sklearn*
