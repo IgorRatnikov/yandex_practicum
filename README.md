@@ -13,7 +13,7 @@
 - Работа с гипотезами
 
 ## Программа обучения:
-![-](https://github.com/IgorRatnikov/portfolio/blob/master/diploma.jpg)
+![-](https://github.com/IgorRatnikov/yandex_practicum/blob/master/diploma.jpg)
 
 ## Проекты:
 | №| Название проекта | Описание                                                     | Стек           |  
